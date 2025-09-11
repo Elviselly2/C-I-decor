@@ -12,9 +12,6 @@ export default defineConfig({
     preview: {
       allowedHosts: [
         'c-i-decor-11.onrender.com', 
-        'c-i-decor-12.onrender.com', 
-        'c-i-decor-13.onrender.com',
-        'c-i-decor-14.onrender.com', 
         'localhost',
       ],
     },
