@@ -12,7 +12,6 @@ bcc==0.29.1
 beautifulsoup4==4.12.3
 blinker==1.7.0
 Brlapi==0.8.5
-gunicorn==20.1.0
 Brotli==1.1.0
 certifi==2023.11.17
 chardet==5.2.0
@@ -193,6 +192,7 @@ types-ldap3==2.9
 types-libsass==0.22
 types-Markdown==3.5
 types-mock==5.1
+gunicorn==20.1.0
 types-mypy-extensions==1.0
 types-mysqlclient==2.2
 types-netaddr==0.9
