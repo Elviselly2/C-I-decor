@@ -11,7 +11,7 @@ export default defineConfig({
     },
     preview: {
       allowedHosts: [
-        'c-i-decor-9.onrender.com', 'https://c-i-decor-9.onrender.com/', // Add your Render URL here
+        'c-i-decor-9.onrender.com', 'https://c-i-decor-10.onrender.com/', // Add your Render URL here
         'localhost',
       ],
     },
